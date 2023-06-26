@@ -26,7 +26,7 @@ input {
 }
 
 .error {
-    display: block;
+    display: none;
     font-size: 24px;
     color: #f00;
     padding: 10px;
